@@ -1,2 +1,2 @@
 # Learn01
-My firs repo to learn
+My first repo to learn
